@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Samuconfaa
-- 🌱 I’m currently learning C#
-- 📫 How to reach me samuconfa08@gmail.com
+# 👋 Ciao, sono Samuconfaa!
 
-<!---
-Samuconfaa/Samuconfaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Benvenuto/a nel mio profilo GitHub!
+
+## 📚 Chi sono
+Sono uno studente di informatica presso l'Istituto Alessandro Greppi, appassionato di tecnologia e sviluppo software. Mi piace esplorare nuovi linguaggi di programmazione e mettermi alla prova con progetti sempre diversi.
+
+## 💻 Competenze principali
+- **C#**
+- **Java**
+
+## 🌐 Dove trovarmi
+[Instagram](https://www.instagram.com/samuconfaa)
+
+---
+
+
