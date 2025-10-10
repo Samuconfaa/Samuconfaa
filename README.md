@@ -25,7 +25,7 @@
 
 - 🏫 **Attualmente studio** presso l'**Istituto Alessandro Greppi di Monticello**.
 - 👨‍💻 **Developer presso** [ScarletMC](https://www.scarletmc.it/)
-- 🌱 **Sto approfondendo le mie conoscenze in:** **ICT** (Information and Communications Technology).
+- 🌱 **Sto approfondendo le mie conoscenze in:** **ICT**.
 - 📧 **Contattami a:** **samuconfa08@gmail.com**
 
 <br>
