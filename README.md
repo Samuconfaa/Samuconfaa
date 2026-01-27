@@ -14,7 +14,7 @@
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Samuconfaa&row=1&theme=dracula" alt="Trofei GitHub" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Samuconfaa&theme=dracula&no-frame=true&margin-w=15" />
     </a>
   </p>
 </div>
