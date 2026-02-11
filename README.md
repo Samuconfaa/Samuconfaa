@@ -1,21 +1,7 @@
-<div align="center">
-  <h1>Ciao, sono Samuele 👋</h1>
-  <h3>Studente di informatica alle scuole superiori 🇮🇹</h3>
-</div>
+<h1 align="center">Ciao, sono Samuele 👋</h1>
+<h3 align="center">Aspirante developer & Studente di informatica alle scuole superiori 🇮🇹</h3>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samuconfaa&label=Visualizzazioni%20Profilo&color=0e75b6&style=flat" alt="Visualizzazioni Profilo" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samuconfaa&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samuconfaa&label=Profile%20views&color=0e75b6&style=flat" alt="Samuconfaa" /> </p>
 
 ---
 
@@ -32,7 +18,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -54,14 +40,10 @@
   </a>
 </p>
 
----
+# 📊 Statistiche GitHub:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=Samuconfaa&theme=onedark" alt="Samuconfaa" /></a> </p>
 
-## 📊 Statistiche GitHub
+## 🏆 Trofei GitHub
+![](https://nirzak-streak-stats.vercel.app/?user=Samuconfaa&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuconfaa&show_icons=true&theme=vision-friendly-dark" alt="Statistiche GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuconfaa&layout=compact&theme=vision-friendly-dark" alt="Linguaggi più usati" />
-</p>
