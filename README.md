@@ -38,4 +38,6 @@
 ## 🏆 Trofei GitHub
 ![](https://nirzak-streak-stats.vercel.app/?user=Samuconfaa&theme=dark&hide_border=false)
 
+---
+
 
