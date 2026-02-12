@@ -10,7 +10,7 @@
 - 🏫 **Studio** presso l'**Istituto Alessandro Greppi di Monticello**
 - 👨‍💻 **Developer presso** [ScarletMC](https://www.scarletmc.it/)
 - 🌱 **Sto approfondendo** il mondo **ICT**
-- 📧 **Email:** **samuconfa08@gmail.com**
+- 📧 **Email:** **samu@samuconfa.it**
 
 ---
 
