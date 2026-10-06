@@ -8,7 +8,6 @@
 ## 💻 Cosa faccio e cosa sto imparando
 
 - 🏫 **Studio** presso l'**Istituto Alessandro Greppi di Monticello**
-- 👨‍💻 **Developer presso** [ScarletMC](https://www.scarletmc.it/)
 - 🌱 **Sto approfondendo** il mondo **ICT**
 - 📧 **Email:** **samu@samuconfa.it**
 
